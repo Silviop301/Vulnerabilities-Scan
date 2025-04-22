@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente Virtual (se usar)
+venv/
+.env
+
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# Outros (opcional)
+*.log
